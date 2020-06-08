@@ -37,17 +37,17 @@ public class Input {
 //        String id = "11,2,32";
         parameterDAO = new ParameterDAO(id);
 
-        System.out.println("输入需要修改代码的路径: ");
+        System.out.println("输入需要修改的.java代码的路径: ");
         String input = bufferedReader.readLine();
 //        String input = "D:\\study\\program\\Java\\Software-Test\\Software-Test\\exchange\\src\\test\\java\\code";
         parameterDAO.SetInput(input);
-        filesDAO.SetInPackage(input.replace(parameterDAO.GetPath(),""));
+        filesDAO.SetInPackage(input.replace(parameterDAO.GetPath(input),""));
 
-        System.out.println("输入需要存放修改完成代码的文件名: ");
+        System.out.println("输入需要存放修改完成代码的文件夹名: ");
         String output = bufferedReader.readLine();
 //        String output =  "code_out\\";
         filesDAO.SetOutPackage(output);
-        output = parameterDAO.GetPath()+ output;
+        output = parameterDAO.GetPath(input)+ output;
         parameterDAO.SetOutput(output);
     }
 }

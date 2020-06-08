@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="693d79ca-e449-4449-9df3-ef79cee01a74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exchange.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exchange.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Beans/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/Parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Beans/Parameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/FilesDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/FilesDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/ParameterDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/ParameterDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Service/cmd/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/cmd/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Service/find/FindCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/find/FindCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/code/code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/code/code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/code_out/code.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d1OGwaNxdYYEx7WvGJr2UZSlrZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../Android/SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Service.cmd.Input" />
+      <module name="exchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.cmd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Input" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="693d79ca-e449-4449-9df3-ef79cee01a74" name="Default Changelist" comment="" />
+      <created>1591589040299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591589040299</updated>
+      <workItem from="1591589044829" duration="1651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="94" key="CommitChangelistDialog2" timestamp="1591589874077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="94" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591589874077" />
+    <state x="86" y="95" key="DiffContextDialog" timestamp="1591589853052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="86" y="95" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591589853052" />
+    <state width="1479" height="338" key="GridCell.Tab.0.bottom" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.0.center" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.0.left" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.0.right" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.1.bottom" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.1.center" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.1.left" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state width="1479" height="338" key="GridCell.Tab.1.right" timestamp="1591590697616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1479" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591590697616" />
+    <state x="342" y="104" key="SettingsEditor" timestamp="1591589156557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="104" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591589156557" />
+  </component>
+</project>

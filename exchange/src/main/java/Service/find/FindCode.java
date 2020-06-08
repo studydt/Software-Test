@@ -31,6 +31,8 @@ public class FindCode {
         this.filesDAO = filesDAO;
         this.parameterDAO = parameterDAO;
         filesDAO.findinput(parameterDAO.GetInput());
+        //检查outpath是否存在, 不存在则创建
+        filesDAO.findoutput(parameterDAO.GetOutput());
         pathin = parameterDAO.GetInput();
         pathout = parameterDAO.GetOutput();
         filenames = filesDAO.GetInput();
@@ -70,6 +72,8 @@ public class FindCode {
     }
 
     public void out_package(String inpackage, String outpackage) throws IOException {
+
+
         Pattern p = Pattern.compile(REGEX_package);
 
         for (String filename : filenames) {

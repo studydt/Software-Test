@@ -71,14 +71,13 @@ public class FilesDAO {
         }
     }
 
-    public boolean findoutput(String dirname) {
+    public void findoutput(String dirname) {
         File f2 = new File(dirname);
         if (f2.isDirectory()) {
-            System.out.println("目录 " + dirname);
-            return true;
+//            System.out.println("目录 " + dirname);
         } else {
-            System.out.println(dirname + " 不是一个目录");
-            return false;
+            f2.mkdir();
+//            System.out.println(dirname + " 不是一个目录");
         }
     }
 

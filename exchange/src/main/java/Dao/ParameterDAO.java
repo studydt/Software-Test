@@ -12,11 +12,11 @@ public class ParameterDAO {
         parameter.setId(ids);
         this.parameter = parameter;
     }
-    public String GetPath(){
-        String[] path = parameter.getINPUT_PATH().split("\\\\");
+    public String GetPath(String str){
+        String[] path = str.split("\\\\");
         int len = path.length-1;
-        int i =parameter.getINPUT_PATH().indexOf(path[len]);
-        return parameter.getINPUT_PATH().substring(0,i);
+        int i =str.indexOf(path[len]);
+        return str.substring(0,i);
 
     }
     public String[] GetId(){
